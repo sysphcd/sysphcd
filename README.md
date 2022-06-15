@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Phoebe Chen</h1>
 
 - A Data Analyst, Full-Stack Developer & Open Source enthusiast.
