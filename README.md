@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phoebe Chen</h1>
-- 🔭 I’m currently working on [Web Development and Blockchain](https://github.com/sysphcd/)
+
+- 🔭 I’m currently working on [Web Development and Blockchain]
 
 - 🌱 I’m currently learning **React**
 
