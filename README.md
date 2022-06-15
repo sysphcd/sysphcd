@@ -3,7 +3,7 @@
 <h3 align="center">Engjoy Data Analysing, Full-Stack development & Open Source</h3>
 
 <h3 align="left">Recently ...</h3>
-I’m currently working on [Web Development and Blockchain]
+I’m currently working on [Web Development, Web3 and Blockchain]
 
 I’m currently learning **React** 
 
